@@ -13,9 +13,9 @@
         <h2 class="titulo-principal">Meus objetivos do ano<span>_</span></h2>
         <div class="conteudo">
             <div class="botoes">
-                <button class="botao ativo">Passar no enem</button>
+                <button class="botao ativo">Me alimentar melhor</button>
                 <button class="botao">Concluir o ensino medio</button>
-                <button class="botao">Passar no vestibular ufpr</button>
+                <button class="botao">Beber mais água</button>
                 <button class="botao">Ler 5 livros até o final do ano</button>
             </div>
             <div class="abas-textos">
